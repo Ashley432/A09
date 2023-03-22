@@ -96,8 +96,10 @@ main li {
 footer p {
 	text-align: center;
 	padding: 1em 0;
-	color: #FFFFFF;
+	
 }
 footer {
 	background-color:#931420;
+	text-indent: 150px;
+	color: #FFFFFF;
 }
